@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 # Load environment variables from a .env file
 load_dotenv()
 
-class DB_conn:
+class db_connection:
     def __init__(self):
        # Set up the database connection parameters and initialize the engine
         self.connection_params = {
