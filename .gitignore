@@ -2,3 +2,5 @@ myvenv/
 vscode/
 .git
 data/
+.json
+node_modules/
